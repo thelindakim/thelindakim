@@ -23,7 +23,7 @@ email: thelindakim@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Linda Kim: artist, empath, creator, visionary, dreamer, worker,
   realist, sister, wife, and daughter. Kicking ass and taking names.
-baseurl: ""
+baseurl: "/thelindakim"
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  thelindakim
 
